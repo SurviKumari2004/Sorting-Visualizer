@@ -6,13 +6,13 @@ body {
     background-color: rgb(242, 238, 128);
 }
 .head{
-    margin-top: 28px;
+    margin-top: 25px;
     font-weight:bold;
     font-size: 50px;
     background-color: aquamarine;
 }
 .flex-container{
-    margin-top: 40px;
+    margin-top: 20px;
     display: flex;
     flex-wrap: nowrap;
     width: 100%;
